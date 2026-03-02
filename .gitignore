@@ -1,0 +1,20 @@
+# Build Folders
+[Bb]in/  
+[Oo]bj/  
+
+# Visual Studio files  
+.vs/  
+*.suo  
+*.user  
+*.userprefs  
+*.sln.docstates  
+
+# Rider files
+.idea/  
+
+# Other files
+*.trx  
+*.pdb  
+*.mdb  
+*.cache
+*.log
